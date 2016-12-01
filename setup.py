@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='DX-Analytics',
+setup(name='dx_analytics',
 		version='0.1',
 		description='DX Analytics',
 		author='Dr. Yves Hilpisch',
